@@ -2,3 +2,8 @@
 	path = xmarts/fieldservice_xma
 	url = git@github.com:xmarts/fieldservice_xma.git
 	branch = 15.0-daviddiazxmarts-iberica
+
+[submodule "xmarts/ga-stock-prearrival"]
+	path = xmarts/ga-stock-prearrival
+	url = git@github.com:xmarts/ga-stock-prearrival.git
+	branch = 15.0-iberica
