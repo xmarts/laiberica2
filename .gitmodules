@@ -2,3 +2,6 @@
 	path = xmarts/muk_rest
 	url = git@github.com:xmarts/muk_rest.git
 	branch = 15.0
+[submodule "fieldservice_xma"]
+	path = fieldservice_xma
+	url = git@github.com:xmarts/fieldservice_xma.git
