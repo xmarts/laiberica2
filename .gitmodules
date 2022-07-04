@@ -32,3 +32,8 @@
 	path = xmarts/web-service
 	url = git@github.com:xmarts/web-service.git
 	branch = 15.0
+
+[submodule "xmarts/xma-connector"]
+	path = xmarts/xma-connector
+	url = git@github.com:xmarts/xma-connector.git
+	branch = 15.0
