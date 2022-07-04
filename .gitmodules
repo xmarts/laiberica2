@@ -17,3 +17,8 @@
 	path = xmarts/muk_rest
 	url = git@github.com:xmarts/muk_rest.git
 	branch = 15.0
+
+[submodule "xmarts/pack-ticket-report"]
+	path = xmarts/pack-ticket-report
+	url = git@github.com:xmarts/pack-ticket-report.git
+	branch = 15.0-iberica
