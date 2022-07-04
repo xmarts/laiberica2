@@ -25,3 +25,8 @@
 	path = xmarts/pos_multi_uom_price
 	url = git@github.com:xmarts/pos_multi_uom_price.git
 	branch = 15.0
+
+[submodule "xmarts/web-service"]
+	path = xmarts/web-service
+	url = git@github.com:xmarts/web-service.git
+	branch = 15.0
