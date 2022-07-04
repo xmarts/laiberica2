@@ -12,3 +12,8 @@
 	path = xmarts/credit_limit_alert_update
 	url = git@github.com:xmarts/credit_limit_alert_update.git
 	branch = 15.0
+
+[submodule "xmarts/muk_rest"]
+	path = xmarts/muk_rest
+	url = git@github.com:xmarts/muk_rest.git
+	branch = 15.0
