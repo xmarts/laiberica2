@@ -7,3 +7,8 @@
 	path = xmarts/ga-stock-prearrival
 	url = git@github.com:xmarts/ga-stock-prearrival.git
 	branch = 15.0-iberica
+
+[submodule "xmarts/credit_limit_alert_update"]
+	path = xmarts/credit_limit_alert_update
+	url = git@github.com:xmarts/credit_limit_alert_update.git
+	branch = 15.0
