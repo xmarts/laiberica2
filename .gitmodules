@@ -5,3 +5,8 @@
 [submodule "fieldservice_xma"]
 	path = fieldservice_xma
 	url = git@github.com:xmarts/fieldservice_xma.git
+
+[submodule "xmarts/credit_limit_alert_update"]
+	path = xmarts/credit_limit_alert_update
+	url = git@github.com:xmarts/credit_limit_alert_update.git
+	branch = 15.0
