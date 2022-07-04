@@ -1,0 +1,4 @@
+[submodule "xmarts/muk_rest"]
+	path = xmarts/muk_rest
+	url = git@github.com:xmarts/muk_rest.git
+	branch = 15.0
