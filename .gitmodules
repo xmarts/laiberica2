@@ -15,3 +15,8 @@
 	path = xmarts/ga-stock-prearrival
 	url = git@github.com:xmarts/ga-stock-prearrival.git
 	branch = 15.0-iberica
+
+[submodule "xmarts/pack-ticket-report"]
+	path = xmarts/pack-ticket-report
+	url = git@github.com:xmarts/pack-ticket-report.git
+	branch = 15.0-iberica
