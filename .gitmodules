@@ -22,3 +22,8 @@
 	path = xmarts/pack-ticket-report
 	url = git@github.com:xmarts/pack-ticket-report.git
 	branch = 15.0-iberica
+
+[submodule "xmarts/pos_multi_uom_price"]
+	path = xmarts/pos_multi_uom_price
+	url = git@github.com:xmarts/pos_multi_uom_price.git
+	branch = 15.0
